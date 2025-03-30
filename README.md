@@ -20,12 +20,13 @@
 ---
 
 ## 💹 백테스트 결과
-![aapl_backtest_plot](https://github.com/user-attachments/assets/abe2331b-38a5-4552-837c-f99592c324e0)
-![aapl_strategy_plot](https://github.com/user-attachments/assets/90a6f545-477e-41f5-9924-433a9b7d1217)
-![aapl_stock_plot](https://github.com/user-attachments/assets/99e82cc3-36e4-468b-9d31-fcf3feea17ac)
+
 
 
 - 누적 수익률 시각화 그래프 포함 (아래 참조)
+![aapl_stock_plot](https://github.com/user-attachments/assets/5cbf7917-99cf-4887-84ec-596d2b12cf48)
+![aapl_strategy_plot](https://github.com/user-attachments/assets/9ff896e9-899f-44a2-a20d-958183fe20e5)
+![aapl_backtest_plot](https://github.com/user-attachments/assets/2140fc89-3aad-46b6-b362-79d025da76b6)
 
 ---
 
